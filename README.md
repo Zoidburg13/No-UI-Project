@@ -4,8 +4,8 @@ Full frame screenshots for various systems, wihtout UI for cleaner looking Front
 ## Details
 
 - 2 sets available
-- original set cps / neogeo hardware aspect (cps 384x224 1:71:1) (neogeo 304x224 1.36:1).
-- upscaled set to 800x600 to match proper 4:3 arcade display aspect.
+- set1 original set cps / neogeo hardware aspect (cps 384x224 1:71:1) (neogeo 304x224 1.36:1).
+- set2 upscaled set to 800x600 to match proper 4:3 arcade display aspect.
 
 ## Preview
 

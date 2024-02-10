@@ -1,5 +1,5 @@
 # No UI Project
-Full frame screenshots for various systems, wihtout UI for cleaner looking Frontend display.
+Full frame (not cropped) screenshots for various systems, wihtout UI for cleaner looking Frontend display.
 
 ## Details
 
